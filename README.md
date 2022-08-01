@@ -12,7 +12,7 @@ The data we use for the paper is grouped in the folder `datasets`. It consists i
 
 For more details, see [here](./datasets/README.md).
 
-**!!! The content of newspaper articles are protected by copyright. We have removed them from the public repo.!!!**
+**The content of newspaper articles are protected by copyright. We have removed them from the public repo.**
 
 
 # 2. Package
