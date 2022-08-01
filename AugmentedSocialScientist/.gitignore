@@ -1,0 +1,15 @@
+*.csv
+data/
+*.json
+*.pkl
+#*.ipycheckpoints
+models/
+*.ipynb_checkpoints
+*.json1
+*.zip
+saved_models/
+old/
+examples/
+drafts/
+data/
+codebase/
