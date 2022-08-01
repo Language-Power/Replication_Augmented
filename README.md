@@ -49,7 +49,7 @@ For more details, see [here](./Core/README.md).
 
 ## 3.1 Performance Scores
 
-For Sample-Efficiency Curves (Figure 3) and summary tables of scores (Table 2; Tables A2, A3, A4 in the Appendix), we need to run the training script several times for each training set size. 
+For Sample-Efficiency Curves (Figure 3) and summary tables of scores (Table 2; Tables B1, B2, B3 in the Appendix), we need to run the training script several times for each training set size. 
 
 To obtain score for just one attempt:
 
@@ -89,7 +89,7 @@ For more details, see [here](./AugmentedSocialScientist/docs/pages/train_predict
 
 The codes to produce the tables and figures in the paper are contained in the folder `AugmentedSocialScientist/analysis/`.
 
-1. For the Table 2 and the Table A2, A3, A4 in Appendix:
+1. For the Table 2 and the Table B1, B2, B2 in Appendix:
 - Human performance scores (Research Assistants, Microworkers) are produced by the notebook [AugmentedSocialScientist/analysis/human_annotators_performance.ipynb](AugmentedSocialScientist/analysis/human_annotators_performance.ipynb);
 - Model performance scores are produced by the notebook [AugmentedSocialScientist/analysis/saturation.ipynb](AugmentedSocialScientist/analysis/saturation.ipynb).
 
