@@ -89,7 +89,7 @@ For more details, see [here](./AugmentedSocialScientist/docs/pages/train_predict
 
 The codes to produce the tables and figures in the paper are contained in the folder `AugmentedSocialScientist/analysis/`.
 
-1. For the Table 2 and the Table B1, B2, B2 in Appendix:
+1. For the Table 2 and the Tables B1, B2, B2 in Appendix:
 - Human performance scores (Research Assistants, Microworkers) are produced by the notebook [AugmentedSocialScientist/analysis/human_annotators_performance.ipynb](AugmentedSocialScientist/analysis/human_annotators_performance.ipynb);
 - Model performance scores are produced by the notebook [AugmentedSocialScientist/analysis/saturation.ipynb](AugmentedSocialScientist/analysis/saturation.ipynb).
 
