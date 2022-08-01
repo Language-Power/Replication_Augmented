@@ -5,7 +5,7 @@
 The folder `AugmentedSocialScientist/analysis/` contains the codes to produce the tables and figures in the paper.
 
 
-1. For Table 2 and the Table 2, 3, 4 in Appendix:
+1. For Table 2 and Table B1, B2, B3 in Appendix:
 - Human performance scores (Research Assistants, Microworkers) are produced by the notebook [AugmentedSocialScientist/analysis/human_annotators_performance.ipynb](../../analysis/human_annotators_performance.ipynb);
 - Model performance scores are produced by the notebook [AugmentedSocialScientist/analysis/saturation.ipynb](../../analysis/saturation.ipynb).
 
