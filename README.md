@@ -62,7 +62,7 @@ As the subsampling is random, we runned 5 to 20 experiments for each task, which
 
 For more details, see [here](./AugmentedSocialScientist/docs/pages/saturation.md).
 
-In Table 2, we have also trained models which do not benefit from pre-training (SVM for Policy/Politics, LSTM for Off-the-Record) for comparison. The assessement of the preformance of these two models is conducted in [AugmentedSocialScientist/train/train_predict_endoexo_SVM.ipynb](AugmentedSocialScientist/train/train_predict_endoexo_SVM.ipynb) and in [AugmentedSocialScientist/train/train_predict_off_LSTM.ipynb](AugmentedSocialScientist/train/train_predict_off_LSTM.ipynb).
+In Table 2, we have also trained models which do not benefit from pre-training for comparison: a SVM model for the Policy/Politics task and a LSTM model for Off-the-Record task. Their performances are assessed in [AugmentedSocialScientist/train/train_predict_endoexo_SVM.ipynb](AugmentedSocialScientist/train/train_predict_endoexo_SVM.ipynb) and in [AugmentedSocialScientist/train/train_predict_off_LSTM.ipynb](AugmentedSocialScientist/train/train_predict_off_LSTM.ipynb).
 
 
 
