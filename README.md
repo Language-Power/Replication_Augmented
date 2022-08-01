@@ -12,6 +12,9 @@ The data we use for the paper is grouped in the folder `datasets`. It consists i
 
 For more details, see [here](./datasets/README.md).
 
+**!!! The content of newspaper articles are protected by copyright. We have removed them from the public repo.!!!**
+
+
 # 2. Package
 
 The folder `Core` is a wrapper for the [HuggingFace Transformers](https://huggingface.co/transformers/index.html) library. This wrapper implements many higher-level functions : formatting data, training models, prediction... 
