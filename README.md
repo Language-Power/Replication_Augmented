@@ -2,13 +2,9 @@
 
 # The Augmented Social Scientist
 
-This repository is a replication and data file for the paper "TThe Augmented Social Scientist. Using Sequential Transfer Learning to Annotate Texts Faster and More Accurately" by [Salomé Do](https://github.com/sally14), Étienne Ollion and [Rubing Shen](https://github.com/rubingshen).
+This repository is a replication and data file for the paper "The Augmented Social Scientist. Using Sequential Transfer Learning to Annotate Texts Faster and More Accurately" by [Salomé Do](https://github.com/sally14), Étienne Ollion and [Rubing Shen](https://github.com/rubingshen).
 
-**Resubmission update**: two models without pre-training are added in the folder `AugmentedSocialScientist/train/`  
 
-- [AugmentedSocialScientist/train/train_predict_endoexo_SVM.ipynb](AugmentedSocialScientist/train/train_predict_endoexo_SVM.ipynb) trains a SVM model for Policy vs. Politics task.
-
-- [AugmentedSocialScientist/train/train_predict_off_LSTM.ipynb](AugmentedSocialScientist/train/train_predict_off_LSTM.ipynb) trains a LSTM model for Off-the-Record task.
 
 # 1. Data
 
@@ -66,9 +62,14 @@ For more details, see [here](./AugmentedSocialScientist/docs/pages/saturation.md
 ## 3.2 Predictions
 
 For the evolution of both Politics and Policy indicators (Figure 4, p. 23 in the paper), we need to save a trained model and use it to produce predictions on each sentence in the entire corpus. 
-  
-- The notebook [AugmentedSocialScientist/train/train_predict_endoexo.ipynb](AugmentedSocialScientist/train/train_predict_endoexo.ipynb) trains and saves one model for the Policy/Politics task.
-- The notebook [AugmentedSocialScientist/train/train_predict_off.ipynb](AugmentedSocialScientist/train/train_predict_off.ipynb) trains and saves one model for the Off-the-record task.
+ 
+- [AugmentedSocialScientist/train/train_predict_endoexo_SVM.ipynb](AugmentedSocialScientist/train/train_predict_endoexo_SVM.ipynb) trains a SVM model for Policy/Politics task.
+- The notebook [AugmentedSocialScientist/train/train_predict_endoexo.ipynb](AugmentedSocialScientist/train/train_predict_endoexo.ipynb) trains and saves a CamemBERT model for the Policy/Politics task.
+- [AugmentedSocialScientist/train/train_predict_off_LSTM.ipynb](AugmentedSocialScientist/train/train_predict_off_LSTM.ipynb) trains a LSTM model for Off-the-Record task.
+- The notebook [AugmentedSocialScientist/train/train_predict_off.ipynb](AugmentedSocialScientist/train/train_predict_off.ipynb) trains and saves a CamemBERT for the Off-the-record task.
+
+
+
 
 Once the model is trained and saved, you can use it to make predictions on the entire corpus by running:
 
