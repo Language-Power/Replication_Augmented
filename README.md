@@ -2,7 +2,7 @@
 
 # The Augmented Social Scientist
 
-This repository is a replication and data file for the paper "The Augmented Social Scientist. Using Sequential Transfer Learning to Annotate Texts Faster and More Accurately" by [Salomé Do](https://github.com/sally14), Étienne Ollion and [Rubing Shen](https://github.com/rubingshen).
+This repository is a replication and data file for the paper "The Augmented Social Scientist. Using Sequential Transfer Learning to Annotate Texts Faster and More Accurately" by [Salomé Do](https://sally14.github.io), [Étienne Ollion](https://ollion.cnrs.fr/english/) and [Rubing Shen](https://rubingshen.github.io).
 
 We have also written a easy-to-use package to train BERT-family models for text classification. Check our [Google Colab tutorial](https://colab.research.google.com/drive/132_oDik-SOWve31tZ8D1VOx1Sj_Cyzn7?usp=sharing).
 
