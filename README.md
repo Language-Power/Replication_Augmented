@@ -2,7 +2,7 @@
 
 # The Augmented Social Scientist
 
-This repository is a replication and data file for the article "The Augmented Social Scientist. How Automatically to Annotate Millions of Texts with Human-Level Accuracy (or better...)".
+This repository is a replication and data file for the paper "TThe Augmented Social Scientist. Using Sequential Transfer Learning to Annotate Texts Faster and More Accurately" by [Salomé Do](https://github.com/sally14), Étienne Ollion and [Rubing Shen](https://github.com/rubingshen).
 
 **Resubmission update**: two models without pre-training are added in the folder `AugmentedSocialScientist/train/`  
 
