@@ -2,6 +2,10 @@
 
 # Data
 
+**:exclamation: The content of newspaper articles are protected by copyright. We have removed them from the public repo.**
+
+
+
 This repository contains datasets for training our models on each of the two tasks (Policy/Politics and Off-the-Record) and predicting. 
 
 All datasets are stored in the folder AugmentedSocialScientist, which contains two folders:
@@ -59,3 +63,6 @@ Contains 3 csv files:
 
 Contains the entire corpus of newspaper articles from *Le Monde*, used to produce the prediction curve (Figure 4, p. 23 of the paper). 
 Each csv file contains all articles for a given decade (file were split on size grounds).
+
+
+
