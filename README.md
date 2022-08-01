@@ -89,11 +89,11 @@ For more details, see [here](./AugmentedSocialScientist/docs/pages/train_predict
 
 The codes to produce the tables and figures in the paper are contained in the folder `AugmentedSocialScientist/analysis/`.
 
-1. For the Table 2 and the Table A2, A3, A4 in Appendix
-- Human performance scores (Research Assistants, Microworkers) are produced by the notebook [AugmentedSocialScientist/analysis/human_annotators_performance.ipynb](AugmentedSocialScientist/analysis/human_annotators_performance.ipynb)
-- Model performance scores are produced by the notebook [AugmentedSocialScientist/analysis/saturation.ipynb](AugmentedSocialScientist/analysis/saturation.ipynb)
+1. For the Table 2 and the Table A2, A3, A4 in Appendix:
+- Human performance scores (Research Assistants, Microworkers) are produced by the notebook [AugmentedSocialScientist/analysis/human_annotators_performance.ipynb](AugmentedSocialScientist/analysis/human_annotators_performance.ipynb);
+- Model performance scores are produced by the notebook [AugmentedSocialScientist/analysis/saturation.ipynb](AugmentedSocialScientist/analysis/saturation.ipynb).
 
-2. The Figure 3 is produced by the notebook [AugmentedSocialScientist/analysis/saturation.ipynb](AugmentedSocialScientist/analysis/saturation.ipynb)
-3. The Figure 4 is produced by the notebook [AugmentedSocialScientist/analysis/prediction_analysis.ipynb](AugmentedSocialScientist/analysis/prediction_analysis.ipynb)
-4. The Table A1 in Appendix is produced by the notebook [AugmentedSocialScientist/analysis/stats_datasets.ipynb](AugmentedSocialScientist/analysis/stats_datasets.ipynb)
+2. The Figure 3 is produced by the notebook [AugmentedSocialScientist/analysis/saturation.ipynb](AugmentedSocialScientist/analysis/saturation.ipynb).
+3. The Figure 4 is produced by the notebook [AugmentedSocialScientist/analysis/prediction_analysis.ipynb](AugmentedSocialScientist/analysis/prediction_analysis.ipynb).
+4. The Table A1 in Appendix is produced by the notebook [AugmentedSocialScientist/analysis/stats_datasets.ipynb](AugmentedSocialScientist/analysis/stats_datasets.ipynb).
 
