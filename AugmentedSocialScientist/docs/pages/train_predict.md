@@ -21,6 +21,8 @@ Saved models are saved in ```AugmentedSocialScientist/saved_models```
 
 ## Predicting
 
+**:exclamation: This script requires the contents of newspaper articles, which have been removed from the public repo due to copyright.**
+
 Prediction is done through a Python script (the script takes some time to run), ```./AugmentedSocialScientist/predict/predict_logged_models.py```. This script uses the models saved during training, so make sure you run the training notebooks beforehand. 
 
 Use:
